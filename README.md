@@ -1,2 +1,4 @@
 # hello-world
-just started learning
+
+Ujjaval here,
+           I am learning different languages and coding.
