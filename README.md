@@ -1,4 +1,4 @@
 # hello-world
 
-ujjaval here,
-             i am learning differnt languages and coding.
+Ujjaval here,
+           I am learning different languages and coding.
